@@ -7,25 +7,5 @@ At the moment the application only takes photos when it detects a face at the ti
 
 The application is and always will be free, but the implementation of the use of various services implies the use of servers or using APIs such as Google Maps for coordinates and geolocation, so the development cost will be really complicated.
 
-# YOU NEED
-
-Python 3.11 ~~not really~~ (just type "python --version" in your terminal to check the version)
-
 # INSTALLATION
 
-## LINUX
-
-1. Open terminal
-
-```
-git clone https://github.com/Ferxas/FlawlessFear.git
-```
-```
-cd FlawlessFear
-```
-```
-pip install -r requirements.txt
-```
-```
-python3 camerafirst.py
-```
