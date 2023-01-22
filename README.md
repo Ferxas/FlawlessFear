@@ -29,6 +29,7 @@ pip install -r requirements.txt
 ```
 python3 flawlessFear.py
 ```
+<<<<<<< HEAD
 
 
 # TO-DO LIST
@@ -41,3 +42,5 @@ python3 flawlessFear.py
 # RELEASE NOTES
 
 1.0.0 - First release.
+=======
+>>>>>>> d4cd0f6373746665ae5ab171e9f7ed2f26888437
