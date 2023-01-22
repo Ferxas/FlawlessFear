@@ -27,5 +27,17 @@ cd FlawlessFear
 pip install -r requirements.txt
 ```
 ```
-python3 camerafirst.py
+python3 flawlessFear.py
 ```
+
+
+# TO-DO LIST
+
+- Create a GUI
+- implement friendly tracking services for the user experience
+- Add more features like send to other devices
+
+
+# RELEASE NOTES
+
+1.0.0 - First release.
