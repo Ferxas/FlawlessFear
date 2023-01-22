@@ -27,5 +27,5 @@ cd FlawlessFear
 pip install -r requirements.txt
 ```
 ```
-python3 camerafirst.py
+python3 flawlessFear.py
 ```
