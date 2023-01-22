@@ -29,9 +29,6 @@ pip install -r requirements.txt
 ```
 python3 flawlessFear.py
 ```
-<<<<<<< HEAD
-
-
 # TO-DO LIST
 
 - Create a GUI
